@@ -106,18 +106,18 @@ In this part we try to understand the Dataset by using Visualize.
 
 To handling missing values, we use a Heat map to see which columns contain null values shown in visualize:
 
-<img src="/img/photo4.png" width="500">
+<img src="./img/photo4.png" width="500">
 
 * the columns has missing values showen in heat map  are (course_type ,completed_date ,row_completed_date ,gender , city, education level ,job status, studnet_english_level)
 
 
 The figure lists courses are divided into 36 courses. The most frequent course is ' إدارة الاداء المالي بفعالية - مرحلة الإنطلاقة'  as shown in the following bar plot:
 
-<img src="/img/photo6.png" width="600">
+<img src="./img/photo6.png" width="600">
 
 The figure below shows Interest for each Student, two types of interest have high average are 'التمويل', 'فرص الأعمال', this means that students are interested in these two areas:
 
-<img src="/img/photo5.png" width="600">
+<img src="./img/photo5.png" width="600">
 
 For the Number of Rate score data, the countplot were used.The following graphs show Occurrence counts of different unique ratings:
 
@@ -125,18 +125,18 @@ Summary of the most important findings:
 
 *  The bar-plot shows the total number of rate score, 5 is the most dominant score, which means many students like the most of courses.
 
-<img src="/img/photo1.png" width="400">
+<img src="./img/photo1.png" width="400">
 
 
 The Mean Rates scores per students ID are presented in the chart below:
 
-<img src="/img/photo2.png" width="400">
+<img src="./img/photo2.png" width="400">
 
 * more than 4000 students are rating 5 that appear in the graph.
 
 These two attributes were analyzed: “Male” and “Female”, to see which most gender of students joining Monshaat academy courses in this pie plot:
 
-<img src="/img/photo3.png" width="400">
+<img src="./img/photo3.png" width="400">
 
 ### Step 4: Modeling:
 We tried to analyse both the objectives and the descriptions of the courses to find best recommendation model. Finally the recommendation algorithm based student interest better results.
@@ -163,7 +163,7 @@ Before building the recommender system:
 4. Create a web pages for model and to get the prediction using HTML and CSS languages and bootsrap.
 
 
-<img src="/img/output.gif">
+<img src="./img/output.gif">
 
 
 ## Conclusion
