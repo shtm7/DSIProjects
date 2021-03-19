@@ -21,7 +21,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone: Monshaat Academy Recommender System 
 by : Modhi Almannaa - Shahad Almangor - Rehab Alharbi (DataGeeks)
 
-<img class="animate__animated animate__fadeInDown" src="/img/Image from iOS.png" width="500">
+<img class="animate__animated animate__fadeInDown" src="/img/Image from iOS.jpg" width="500">
 
 ## Table of contents
 * Introduction.
