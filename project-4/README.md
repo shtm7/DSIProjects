@@ -55,15 +55,15 @@ DatetimeIndex(['2001-03-16', '2001-03-19', '2001-03-20', '2001-03-21',
               
 head of subset from main dataset:
 
-<img src="/image/photo4.png" width="200">
+<img src="./image/photo4.png" width="200">
 
 Visually examine:
 
-<img src="/image/photo1.png" width="400">
+<img src="./image/photo1.png" width="400">
 
-<img src="/image/photo2.png" width="400">
+<img src="./image/photo2.png" width="400">
 
-<img src="/image/photo3.png" width="400">
+<img src="./image/photo3.png" width="400">
 
 
 
